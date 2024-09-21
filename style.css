@@ -9,6 +9,9 @@ h1,p{
     font-weight: bold;
 }
 
+:root{
+    background-color: #ff000011;
+}
 
 /* header */
 .header {
